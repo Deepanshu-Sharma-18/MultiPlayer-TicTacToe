@@ -25,3 +25,7 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+
+
+/lib/server/node_modules
+/lib/server/credentials.json
